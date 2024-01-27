@@ -1,0 +1,15 @@
+# Ignore les fichiers d'environnement
+.json
+
+# Ignore les fichiers de configuration spécifiques à l'éditeur
+.vscode/
+.idea/
+
+# Ignore les fichiers de build et les dossiers de sortie
+/build/
+/dist/
+
+# Ignore le dossier node_modules
+node_modules/
+backups/
+Tests/
